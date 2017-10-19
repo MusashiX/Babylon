@@ -1,0 +1,3 @@
+f=open("/tmp/t","w")
+f.write("data")
+f.close()
